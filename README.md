@@ -22,4 +22,5 @@ Optional, in `Extra config arguments:` of Flight Sheet put  `-solo` to run the m
 
 /etc/private_key.text
 
-This will store your private_key for the miner.  Follow the on screen prompt for the first run to set your private key.  Also make sure to fund your privateKeys' address with Ethereum on zkSync Era blockchain to pay for the mints.
+This will store your private_key for the miner.  Follow the on screen prompt for the first run to set your private key.  
+# Also make sure to fund your privateKeys' address with Ethereum on zkSync Era blockchain to pay for the mints.
