@@ -13,7 +13,7 @@ Miner: _zkBitcoinMiner
 
 Template: 0x851c0428ee0be11f80d93205f6cB96adBBED22e6
 
-Install Url: https://raw.githubusercontent.com/ZKBitcoinToken/Hive-OS-Miner/main/_zkBitcoinMiner-2121.2.0.tar.gz
+Install Url: https://raw.githubusercontent.com/ZKBitcoinToken/Hive-OS-Miner/main/_zkBitcoinMiner-2122.2.0.tar.gz
 
 User Config: 
 
