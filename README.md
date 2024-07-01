@@ -3,11 +3,18 @@ For HiveOS Miners
 
 For Hive Flight Sheet
 
+Coin: ETI
+
 Url: 47.34.124.119:6128
+
 Algo: sha3solidity
+
 Miner: TT-Miner
-Template %WAL%
-Install Urlhttps://github.com/TrailingStop/TT-Miner-release/releases/download/2024.2.0/TT-Miner-2024.2.0.Hive.tar.gz
+
+Template: 0x851c0428ee0be11f80d93205f6cB96adBBED22e6
+
+Install Url: https://raw.githubusercontent.com/ZKBitcoinToken/Hive-OS-Miner/main/_zkBitcoinMiner-2121.2.0.tar.gz
+
 User Config: 
 
 
