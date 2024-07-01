@@ -9,7 +9,7 @@ Url: 47.34.124.119:6128
 
 Algo: sha3solidity
 
-Miner: TT-Miner
+Miner: _zkBitcoinMiner
 
 Template: 0x851c0428ee0be11f80d93205f6cB96adBBED22e6
 
