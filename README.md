@@ -18,7 +18,7 @@ Install Url: https://raw.githubusercontent.com/ZKBitcoinToken/Hive-OS-Miner/main
 User Config: 
 
 
-Optional, in `Extra config arguments:` of Flight Sheet put  `-solo` to run the miner in Solo Mode, you will have to input a private key t
+Optional, in `Extra config arguments:` of Flight Sheet put  `-solo` to run the miner in Solo Mode, you will have to input a private key that gets stored @
 
 /etc/private_key.text
 
